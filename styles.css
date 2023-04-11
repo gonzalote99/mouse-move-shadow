@@ -1,0 +1,21 @@
+html {
+  color:#001f3f;
+  font-family:Impact,'Arial Narrow Bold', sans-serif
+}
+
+body {
+  margin: 0;
+}
+
+.textarea {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: black;
+}
+
+h1 {
+  text-shadow: 10px 10px 0 orange;
+  font-size: 80px;
+}
